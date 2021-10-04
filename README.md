@@ -2,7 +2,7 @@
 
 
 #### I am interested in:
-     Researching novel ways to integrate machine learning and deep learning algorithms to impliment in Neuromorphic hardwares.
+     Researching novel ways to integrate machine learning and deep learning algorithms with neuroscience.
    
 
 <!--
