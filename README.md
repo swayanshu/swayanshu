@@ -1,7 +1,7 @@
 ### Hi I'm Swayanshu!
 
-<\n>
-I am interested in:
+
+#### I am interested in:
      Researching novel ways to integrate machine learning and deep learning algorithms to impliment in Neuromorphic hardwares.
    
 
