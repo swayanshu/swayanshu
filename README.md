@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm Swayanshu!
+
+<\n>
+I am interested in:
+     Researching novel ways to integrate machine learning and deep learning algorithms to impliment in Neuromorphic hardwares.
+   
 
 <!--
 **swayanshu/swayanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
