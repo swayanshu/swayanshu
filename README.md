@@ -2,7 +2,8 @@
 
 
 #### I am interested in:
-     Researching novel ways to integrate machine learning and deep learning algorithms with neuroscience.
+     Researching novel ways to integrate machine learning and deep learning algorithms with neuroscience.  
+     
 
 
 <!--
