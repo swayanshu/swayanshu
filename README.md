@@ -5,7 +5,7 @@
    * Integrating AI with Neuroscience
    * Creating Biologically plausible Neural Networks ([Tutorial](https://youtu.be/l-CSbejxGys))
    * Designing energy efficient spiking networks ([Tutorial](https://youtu.be/E5Iju6jK3OY))
-   * Kinematic analysis of human movement
+   * Kinematic analysis of human arm movement
    
 
 Reach me at:    
