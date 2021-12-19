@@ -3,7 +3,8 @@
 
 #### I am interested in:
      Researching novel ways to integrate machine learning and deep learning algorithms with neuroscience.  
-     
+
+Reach me at:    
 - [Email](mailto:swayanshu1997@gmail.com?subject=Hi% "Hi!")
 - [Medium](https://swayanshu.medium.com/ "Welcome")
 
