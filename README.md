@@ -10,6 +10,7 @@
 
 Reach me at:    
    - [Email](mailto:swayanshu1997@gmail.com?subject=Hi% "Hi!")
+   - [YpuTube](https://www.youtube.com/channel/UCyYD_wXrfegI9v4rGurw-RQ)
    - [Medium](https://swayanshu.medium.com/ "Welcome")
 
 <!--
