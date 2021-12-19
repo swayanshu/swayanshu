@@ -2,11 +2,15 @@
 
 
 #### I am interested in:
-     Researching novel ways to integrate machine learning and deep learning algorithms with neuroscience.  
+   * Integrating AI with Neuroscience
+   * Creating Biologically plausible Neural Networks
+   * Designing energy efficient spiking networks
+   * Kinematic analysis of human movement
+   
 
 Reach me at:    
-- [Email](mailto:swayanshu1997@gmail.com?subject=Hi% "Hi!")
-- [Medium](https://swayanshu.medium.com/ "Welcome")
+   - [Email](mailto:swayanshu1997@gmail.com?subject=Hi% "Hi!")
+   - [Medium](https://swayanshu.medium.com/ "Welcome")
 
 <!--
 **swayanshu/swayanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
