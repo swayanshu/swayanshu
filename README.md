@@ -1,7 +1,7 @@
 ### Hi I'm Swayanshu!
 
 
-#### I am interested in:
+#### My research is centered on the following topics:
    * Integrating AI with Neuroscience
    * Creating Biologically plausible Neural Networks ([Tutorial](https://youtu.be/l-CSbejxGys))
    * Designing energy efficient spiking networks ([Tutorial](https://youtu.be/E5Iju6jK3OY))
