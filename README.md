@@ -17,7 +17,7 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 
-#### My research is centered on the following topics:
+### My research is centered on the following topics:
 * Integrating AI with Neuroscience
 * Creating Biologically plausible Neural Networks ([Tutorial](https://youtu.be/l-CSbejxGys))
 * Designing energy efficient spiking networks ([Tutorial](https://youtu.be/E5Iju6jK3OY))
