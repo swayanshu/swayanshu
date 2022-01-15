@@ -19,6 +19,7 @@
 
 ### My research is centered on the following topics:
 * Integrating AI with Neuroscience
+* Sentiment Analysis from Text, Audio and Video Data
 * Creating Biologically plausible Neural Networks ([Tutorial](https://youtu.be/l-CSbejxGys))
 * Designing energy efficient spiking networks ([Tutorial](https://youtu.be/E5Iju6jK3OY))
 * Kinematic analysis of human arm movement  
