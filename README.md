@@ -72,3 +72,14 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+## Special Note
+There are many open source codes available in the data science field, so if you find any of the code that are reused from your original work, please let me know. I'd love to credit you as the creator of your work. My goal is to learn from each other's work, experiment and provide meaningful service by utilizing advanced techniques. 
+
+## Kudos
+
+* Google (https://www.google.com/)
+* Stack Overflow (https://stackoverflow.com/)
+* Kaggle (https://www.kaggle.com/)
+* Tensorflow (https://www.tensorflow.org/)
+* Scikit learn (https://scikit-learn.org/stable/)
