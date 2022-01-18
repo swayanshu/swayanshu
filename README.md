@@ -1,4 +1,4 @@
-## Hi 👋, I'm Swayanshu    
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Swayanshu    
 ### Glad to see you here!    
 
 <a href="https://github.com/github.com/swayanshu" target="_blank">
