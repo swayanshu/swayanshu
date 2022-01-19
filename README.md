@@ -18,6 +18,7 @@
 </a>  
 
 
+
 ### My research is centered on the following topics:
 * Integrating AI with Neuroscience
 * Sentiment Analysis from Text, Audio and Video Data
@@ -25,13 +26,16 @@
 * Designing energy efficient spiking networks ([Tutorial](https://youtu.be/E5Iju6jK3OY))
 * Kinematic analysis of human arm movement  
   
+🔭 I’m currently working on [Cls-Evaluation 0.0.1](https://pypi.org/project/Cls-Evaluation/) package.
 <br/>  
 
 
 
 ## Languages and Tools  
 <div align="center">  
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <href="https://www.python.org" target="_blank" rel="noreferrer">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="40" />  
