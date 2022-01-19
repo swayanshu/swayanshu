@@ -79,7 +79,7 @@
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
-## Kudos
+## References:
 
 * Google (https://www.google.com/)
 * Stack Overflow (https://stackoverflow.com/)
