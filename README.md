@@ -20,6 +20,7 @@
 
 
 ### My research is centered on the following topics:
+* Explanable Machine Learning Models
 * Integrating AI with Neuroscience
 * Sentiment Analysis from Text, Audio and Video Data
 * Creating Biologically plausible Neural Networks ([Tutorial](https://youtu.be/l-CSbejxGys))
