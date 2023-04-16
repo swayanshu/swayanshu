@@ -88,6 +88,8 @@
 * Tensorflow (https://www.tensorflow.org/)
 * Scikit learn (https://scikit-learn.org/stable/)
 
+## Contribution Graph
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  
 ## Special Note
 There are many open source codes available in the data science field, so if you find any code that is reused from your original work, it was done unintentionally, so please inform me. I would like to credit you as the author of your work and include it in my "references section". Let us collaborate to learn and grow in order to provide meaningful service to society through creativity.
-
