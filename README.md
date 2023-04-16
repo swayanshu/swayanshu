@@ -90,3 +90,25 @@
 
 ## Special Note
 There are many open source codes available in the data science field, so if you find any code that is reused from your original work, it was done unintentionally, so please inform me. I would like to credit you as the author of your work and include it in my "references section". Let us collaborate to learn and grow in order to provide meaningful service to society through creativity.
+
+
+<!--START_SECTION:badges-->
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "My commit message to update badges"
+          CREDLY_USER: <username_credly>
+          CREDLY_SORT: POPULAR
+<!--END_SECTION:badges-->
