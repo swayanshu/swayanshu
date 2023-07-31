@@ -1,5 +1,20 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Swayanshu    
-### Glad to see you here!    
+#### Glad to see you here!  
+## About Me: 
+<p align="left">
+I possess a strong passion and commitment as a data scientist, with a keen focus on achieving desired outcomes. I have a strong proficiency in the development and implementation of predictive models, as well as the optimization of algorithms and the extraction of valuable patterns from extensive and complex datasets. Throughout my professional trajectory, I have effectively engaged in collaborative efforts with interdisciplinary teams to address complex issues and implement evidence-based solutions that optimize operational effectiveness and guide strategic decision-making. As an individual committed to lifelong learning, I consistently strive to identify and engage in avenues that enable me to enhance my array of skills and remain updated of the dynamic developments within the field of data science. I excel in dynamic contexts and am enthusiastic about utilizing my specialized knowledge to effectuate a constructive influence within the realm of data science. </p>
+
+### My research is centered on the following topics:
+* Explainable Machine Learning Models
+* Integrating AI with Neuroscience
+* Sentiment Analysis from Text, Audio, and Video Data
+* Creating Biologically plausible Neural Networks ([Tutorial](https://youtu.be/l-CSbejxGys))
+* Designing energy efficient spiking networks ([Tutorial](https://youtu.be/E5Iju6jK3OY))
+* Kinematic analysis of human arm movement  
+  
+🔭 I’m currently working on [Cls-Evaluation 0.0.1](https://pypi.org/project/Cls-Evaluation/) package.
+
+<br/>  
 
 <a href="https://github.com/github.com/swayanshu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -16,21 +31,6 @@
 <a href="https://www.kaggle.com/https://www.kaggle.com/pragya29" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
-
-
-
-### My research is centered on the following topics:
-* Explanable Machine Learning Models
-* Integrating AI with Neuroscience
-* Sentiment Analysis from Text, Audio and Video Data
-* Creating Biologically plausible Neural Networks ([Tutorial](https://youtu.be/l-CSbejxGys))
-* Designing energy efficient spiking networks ([Tutorial](https://youtu.be/E5Iju6jK3OY))
-* Kinematic analysis of human arm movement  
-  
-🔭 I’m currently working on [Cls-Evaluation 0.0.1](https://pypi.org/project/Cls-Evaluation/) package.
-<br/>  
-
-
 
 ## Languages and Tools  
 <div align="center">  
