@@ -16,19 +16,19 @@ I possess a strong passion and commitment as a data scientist, with a keen focus
 
 <br/>  
 
-<a href="https://github.com/github.com/swayanshu" target="_blank">
+<a href="https://github.com/swayanshu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://swayanshu.medium.com/" target="_blank">
+<a href="https://medium.com/@swayanshu" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCyYD_wXrfegI9v4rGurw-RQ" target="_blank">
+<a href="https://www.youtube.com/@swayanshus.pragnya" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/swayanshu/" target="_blank">
+<a href="https://www.linkedin.com/in/swayanshu/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/pragya29" target="_blank">
+<a href="https://www.kaggle.com/pragya29" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 
